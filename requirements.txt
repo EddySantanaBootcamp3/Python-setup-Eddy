@@ -1,0 +1,13 @@
+# Dependencias del proyecto de verificación de entorno
+# Instálalas con:  pip install -r requirements.txt
+#
+# Versiones fijadas a las que estamos usando en este proyecto.
+# Para regenerar este archivo con tus versiones:  pip freeze > requirements.txt
+
+pandas==3.0.3
+matplotlib==3.11.0
+seaborn==0.13.2
+plotly==6.8.0
+jupyter==1.1.1
+notebook==7.6.0
+ipykernel==7.3.0

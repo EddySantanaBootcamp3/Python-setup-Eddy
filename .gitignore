@@ -1,0 +1,22 @@
+# Entorno virtual
+venv/
+.venv/
+env/
+
+# Archivos de Python compilados
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Configuración de editores
+.vscode/
+.idea/
+
+# Variables de entorno (¡secretos!)
+.env
+
+# Datos pesados (opcional, según el proyecto)
+data/raw/
