@@ -1,4 +1,15 @@
-# 🐍 Guía Completa para Iniciar Proyectos en Python
+![Python Analytics Toolkit](assets/portfolio-banner.svg)
+
+# Python Analytics Toolkit
+
+Referencia técnica para configurar entornos Python reproducibles y ejecutar un notebook de análisis exploratorio Iris. Repositorio de fundamentos, no un proyecto de negocio.
+
+**English:** Python environment setup and introductory exploratory analysis.
+
+[Portafolio profesional](https://github.com/EddySantanaBootcamp3)
+
+---
+
 
 > Una guía de referencia clara y orientada a principiantes para empezar **cualquier** proyecto en Python: entornos virtuales, instalación de paquetes, `requirements.txt`, Jupyter, kernels y buenas prácticas.
 
